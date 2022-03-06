@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Ghidra (3ef37541-503c-47e4-9abd-5612fb12fee6)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.Eolx8LIETI" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Wiliki (eb003ff6-fcb1-41e3-9033-7a990c148428)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
